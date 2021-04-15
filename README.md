@@ -3,7 +3,8 @@
 
 <h3>My Stats</h3>
 <a><img width="432" img align="left" alt="Nicool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rojo-coder&show_icons=true&theme=vue" class="responsive" />
-</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojo-coder&layout=compact&hide=html&theme=vue" class="responsive"/></a>  
+</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojo-coder&layout=compact&hide=html&theme=vue" class="responsive"/></a>
+
 <h3 align="center">CONTACT ME 🤙</h3>
 <p align="center">
     <!-- twitter -->
